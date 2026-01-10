@@ -4,7 +4,7 @@
 
 🌍 can work in any job role worldwide
 
-I'm an highly skilled and detail-oriented Analyst with a Second-Class Honors in Geophysics. I am passionate about turning data into actionable insights, uncovering trends, answering business questions, and supporting smart decision-making through clear analysis and impactful dashboards
+I'm a highly skilled and detail-oriented Analyst with a Second-Class Honors in Geophysics. I am passionate about turning data into actionable insights, uncovering trends, answering business questions, and supporting smart decision-making through clear analysis and impactful dashboards
 
 ---
 
