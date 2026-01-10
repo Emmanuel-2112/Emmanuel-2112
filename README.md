@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I’m Emmanuel
 
-<!--
-**Emmanuel-2112/Emmanuel-2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Power BI • SQL • Python**
 
-Here are some ideas to get you started:
+I analyze data to uncover trends, answer business questions, and support decision-making through clear insights and dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 What I Do
+- Clean, transform, and analyze datasets
+- Build interactive dashboards (Power BI)
+- Write SQL queries to extract insights
+- Communicate findings in a clear, business-friendly way
+
+---
+
+### 🛠 Tools & Skills
+- **Data Analysis:** Power BI, Excel, SQL, Python (Pandas, NumPy)
+- **Visualization:** Power BI, Matplotlib
+- **Databases:** MySQL, PostgreSQL
+- **Other:** Git, GitHub
+
+---
+
+### 📌 Featured Projects
+Check out my pinned repositories below 👇  
+Each project includes problem statements, analysis steps, and insights.
+
+---
+
+### 🔗 Links
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 📊 
