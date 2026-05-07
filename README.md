@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m Emmanuel
 
-**Business & Data Analyst |• SQL • Power BI • Python • Excel • Powerpoint**
+**Data-Driven Email Marketer | Business & Data Analyst |• SQL • Power BI • Python • Excel • Powerpoint**
 
 🌍 can work in any job role worldwide
 
-I'm a highly skilled and detail-oriented Analyst with a Second-Class Honors in Geophysics. I am passionate about turning data into actionable insights, uncovering trends, answering business questions, and supporting smart decision-making through clear analysis and impactful dashboards
+I'm a highly skilled and detail-oriented Marketer and Analyst with a Second-Class Honors in Geophysics. I am passionate about turning data into actionable insights, uncovering trends, answering business questions, and supporting smart decision-making through clear analysis and impactful dashboards
 
 ---
 
@@ -22,6 +22,7 @@ I'm a highly skilled and detail-oriented Analyst with a Second-Class Honors in G
 - **Data Analysis:** Power BI, Excel, SQL, Python 
 - **Visualization:** Power BI
 - **Databases:** MySQL, PostgreSQL
+- **Email Marketing:** Klaviyo, Mailerlite, Mailchimp, Hubspot
 
 ---
 
