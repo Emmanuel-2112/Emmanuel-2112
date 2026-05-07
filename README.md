@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Emmanuel
 
-**Data-Driven Email Marketer | Business & Data Analyst |• SQL • Power BI • Python • Excel • Powerpoint**
+**Data & Business Analyst | Email Marketing Specialist |• SQL • Power BI • Python • Excel • Powerpoint**
 
 🌍 can work in any job role worldwide
 
